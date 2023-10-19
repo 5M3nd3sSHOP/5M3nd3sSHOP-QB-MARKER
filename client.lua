@@ -1,4 +1,3 @@
--- put ur vector3 coords here!
 local locations = {
     { x = -1056.9, y = -861.79, z = 4.94 },
     { x = -1114.59, y = -835.15, z = 13.34 },
